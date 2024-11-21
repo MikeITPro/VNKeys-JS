@@ -1,5 +1,5 @@
 # VNKeys JS: Vietnamese Typing Across Devices
-VNKeys is a powerful and intuitive JavaScript library designed to enable users to type in Vietnamese effortlessly on any browser and device. Recognizing the challenges of inputting Vietnamese text, especially for users unfamiliar with specialized keyboards, VNKeys provides a seamless typing experience with support for multiple popular Vietnamese input methods.
+VNKeys is a powerful and intuitive JavaScript library designed to enable users to type in Vietnamese effortlessly on any browser and device. Recognizing the challenges of inputting Vietnamese text, especially for users unfamiliar with specialized keyboards, VNKeys provides a seamless typing experience with support for multiple popular Vietnamese input methods.  Yes, it works mobile devices.
 
 ## Live Demo
 Check out live demo [VNKeys.NET](https://vnkeys.net) for more details.
