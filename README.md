@@ -15,3 +15,13 @@ VNKeys supports five input modes:
 
 ## Getting Started
 By integrating VNKeys into your website or application, you're empowering users with the ability to write in Vietnamese smoothly, whether they're on a desktop, tablet, or mobile device. Say goodbye to cumbersome workarounds and hello to seamless Vietnamese input with VNKeys!
+
+## Installation
+
+1. **Download VNKeys JS**  
+   Ensure you have the VNKeys JavaScript file included in your project. Place it in an accessible location, e.g., `js/vnkeys.js`.
+
+2. **Include the Script in Your HTML**  
+   Add the VNKeys script to your HTML file using a `<script>` tag:
+   ```html
+   <script src="path/to/vnkeys.js"></script>
