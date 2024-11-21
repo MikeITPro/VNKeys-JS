@@ -40,7 +40,7 @@ By integrating VNKeys into your website or application, you're empowering users 
    <input name="vnkeys_method" type="radio" value="vni" onchange="VNKeys.setMethod();"> VNI
    <input name="vnkeys_method" type="radio" value="telex" onchange="VNKeys.setMethod();"> TELEX
 
-4. **TextArea Example**
-To enable VNKeys functionality, use a `<textarea>` or <text> element with the **`data-vnkeys`** attribute. This attribute activates the Vietnamese input feature.
+4. **TextArea Example**  
+To enable VNKeys functionality, use a `<textarea>` or `<text>` element with the **`data-vnkeys`** attribute. This attribute activates the Vietnamese input feature.
 ```html
 <textarea data-vnkeys autofocus="autofocus" id="txtTest" style="width:99%; height:200px;"></textarea>
