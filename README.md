@@ -45,4 +45,4 @@ To enable VNKeys functionality, use a `<textarea>` or <text> element with the **
 ```html
 <textarea autofocus="autofocus" id="txtTest" 
           style="width:99%; height:200px; background-color:white" 
-          **data-vnkeys**></textarea>
+          data-vnkeys></textarea>
