@@ -44,3 +44,4 @@ By integrating VNKeys into your website or application, you're empowering users 
 To enable VNKeys functionality, use a `<textarea>` or `<text>` element with the **`data-vnkeys`** attribute. This attribute activates the Vietnamese input feature.
 ```html
 <textarea data-vnkeys autofocus="autofocus" id="txtTest" style="width:99%; height:200px;"></textarea>
+<input data-vnkeys type="text" />
