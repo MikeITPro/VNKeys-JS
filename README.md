@@ -39,7 +39,7 @@ By integrating VNKeys into your website or web application, you're empowering us
    <input name="vnkeys_method" type="radio" value="viqr" onchange="VNKeys.setMethod();"> VIQR
    <input name="vnkeys_method" type="radio" value="vni" onchange="VNKeys.setMethod();"> VNI
    <input name="vnkeys_method" type="radio" value="telex" onchange="VNKeys.setMethod();"> TELEX
-
+   ```
    You can also use **VNKeys.setMethod("auto")**
 
 4. **TextArea Example**  
