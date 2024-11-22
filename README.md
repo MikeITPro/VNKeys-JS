@@ -34,11 +34,11 @@ By integrating VNKeys into your website or web application, you're empowering us
    Include radio buttons for selecting the input method. Use the `VNKeys.setMethod()` function to switch between input modes:
    ```html
    <b>Input:</b> 
-   <input name="vnkeys_method" type="radio" onchange="VNKeys.setMethod('off');"> OFF
-   <input name="vnkeys_method" type="radio" onchange="VNKeys.setMethod('auto');" checked="checked"> AUTO
-   <input name="vnkeys_method" type="radio" onchange="VNKeys.setMethod('viqr');"> VIQR
-   <input name="vnkeys_method" type="radio" onchange="VNKeys.setMethod('vni');"> VNI
-   <input name="vnkeys_method" type="radio" onchange="VNKeys.setMethod('telex');"> TELEX
+   <input type="radio" onchange="VNKeys.setMethod('off');"> OFF
+   <input type="radio" onchange="VNKeys.setMethod('auto');" checked="checked"> AUTO
+   <input type="radio" onchange="VNKeys.setMethod('viqr');"> VIQR
+   <input type="radio" onchange="VNKeys.setMethod('vni');"> VNI
+   <input type="radio" onchange="VNKeys.setMethod('telex');"> TELEX
 
 4. **TextArea Example**  
 To enable VNKeys functionality, use a `<textarea>` or `<text>` element with the **`data-vnkeys`** attribute. This attribute activates the Vietnamese input feature.
