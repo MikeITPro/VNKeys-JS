@@ -14,7 +14,7 @@ VNKeys supports five input modes:
 5. **TELEX**: A modern and intuitive method with combinations like `aa` for â or `dd` for đ.
 
 ## Getting Started
-By integrating VNKeys into your website or application, you're empowering users with the ability to write in Vietnamese smoothly, whether they're on a desktop, tablet, or mobile device. Say goodbye to cumbersome workarounds and hello to seamless Vietnamese input with VNKeys!
+By integrating VNKeys into your website or web application, you're empowering users with the ability to write in Vietnamese smoothly, whether they're on a desktop, tablet, or mobile device. Say goodbye to cumbersome workarounds and hello to seamless Vietnamese input with VNKeys!
 
 ## Installation
 
