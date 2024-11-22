@@ -26,7 +26,7 @@ By integrating VNKeys into your website or web application, you're empowering us
    ```html
    <script src="path/to/vnkeys.js"></script>
    or
-   <script src="https://vnkeys.net/raw.aspx?skey=vnkeys_js"></script>
+   <script src="https://vnkeys.net/raw.htm?skey=vnkeys_js"></script>
 
    
 
